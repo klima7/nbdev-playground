@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-playground"
+  site-url: "https://klima7.github.io/nbdev-playground"
+  description: "Playground for nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/klima7/nbdev-playground"
